@@ -7,5 +7,5 @@
 ```
 enkoi-golfed
 +- README.md                  이 파일
-+- enkoi_universial_py3.py    1번 ~ 3번 문제까지의 정답 코드
++- enkoi_universal_py3.py    1번 ~ 3번 문제까지의 정답 코드
 ```
